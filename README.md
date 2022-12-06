@@ -4,7 +4,7 @@
 
 本预设适用于国服6.2炼狱篇零式，预设功能请在下方查看。后续会进行更新，待编辑。
 
-> * 本预设需要使用卫月插件[Splatoon][1]，请灵性下载使用。
+> * 本预设需要使用卫月插件[Splatoon][2]，请灵性下载使用。
 > * （用不了SPL就是缘分不到）
 > *  国服SPL插件链接：
 > *  `https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json`
@@ -124,3 +124,4 @@
 
 
   [1]: https://space.bilibili.com/220756407
+  [2]:https://github.com/NightmareXIV/Splatoon
