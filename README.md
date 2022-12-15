@@ -119,8 +119,10 @@
 
 
 ## **P8S 前半**
-
-    待补充
+- P8S  P8S石化射线/蛇毒范围提醒
+```
+~Lv2~{"Name":"P8S石化射线/蛇毒范围提醒","Group":"","ZoneLockH":[1088],"ElementsL":[{"Name":"石光","type":4,"radius":15.0,"coneAngleMin":-25,"coneAngleMax":20,"color":1693511924,"refActorPlaceholder":["<3>","<2>","<1>","<4>","<5>","<6>","<7>","<8>"],"refActorRequireBuff":true,"refActorBuffId":[3351],"refActorUseBuffTime":true,"refActorBuffTimeMax":6.0,"FillStep":0.01,"refActorComparisonType":5,"refActorType":1,"includeRotation":true,"AdditionalRotation":0.064577185,"Filled":true},{"Name":"蛇毒","type":1,"radius":4.5,"color":839381522,"refActorPlaceholder":["<3>","<2>","<1>","<4>","<5>","<6>","<7>","<8>"],"refActorRequireBuff":true,"refActorBuffId":[3326],"refActorUseBuffTime":true,"refActorBuffTimeMax":6.0,"refActorComparisonType":5,"refActorType":1,"includeRotation":true,"AdditionalRotation":0.064577185,"Filled":true}]}
+```
     
 
 ## **P8S 后半** 
