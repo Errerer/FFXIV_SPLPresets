@@ -19,7 +19,7 @@
     "LastUpdated": "0"
   },
   {
-    "Name": "Aether Compass [Preview] CN",
+    "Name": "Aether Compass [Preview]",
     "Author": "yomishino，Errer(本地化)",
     "Punchline": "Compasses that detect and mark certain nearby objects/NPCs",
     "Description": "[Important!] Please disable AND uninstall any non-preview version if you'd like to install this version.\n\nThis plugin detects certain objects/NPCs such as Aether Currents nearby and shows where they are by various ways, e.g. pointing to their locations on screen and notifying you in Chat.\n\nCurrently detects:\n\t- Aether Currents\n\t- Mob Hunt Elite Marks\n\t- Gathering Points\n\t- [Experimental] Island Sanctuary Gathering Objects and Animals\n\t- [Experimental] Quest-related NPCs/Objects\n\t- [Experimental] Eureka Elementals (by apetih) \n\nNote: Because most objects/NPCs are not loaded when they are too faraway or when there are too many entities nearby (such as too many player characters), they will not be detected in this case.\n\nIcon by Lumas Arkfrost",
@@ -32,7 +32,7 @@
     "ImageUrls": "",
     "IconUrl": "https://raw.githubusercontent.com/yomishino/FFXIVAetherCompass/master/res/img/icon_by_arkfrostlumas.png",
     "DalamudApiLevel": 8,
-    "InternalName": "AetherCompassPreview CN",
+    "InternalName": "AetherCompassPreview",
     "ApplicableVersion": "any",
     "LoadPriority": 0,    
     "DownloadLinkInstall": "https://github.com/Errerer/FFXIVAetherCompass/releases/latest/download/latest.zip",
