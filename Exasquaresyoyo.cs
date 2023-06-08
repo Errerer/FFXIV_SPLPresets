@@ -20,10 +20,10 @@ using ECommons.MathHelpers;
 
 namespace SplatoonScriptsOfficial.Duties.Endwalker.The_Omega_Protocol
 {
-    public class Exasquares : SplatoonScript
+    public class Exasquaresyoyo : SplatoonScript
     {
         public override HashSet<uint> ValidTerritories => new() { 1122 };
-        public override Metadata? Metadata => new(5, "Errer/yoyo预设绘制 P6宇宙天剑安全点  ");
+        public override Metadata? Metadata => new(1, "Errer/yoyo预设绘制 P6宇宙天剑安全点  ");
         TickScheduler? sch;
         TickScheduler? doTask;
         bool mechanicResolved = false;
