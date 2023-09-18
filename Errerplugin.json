@@ -1,10 +1,10 @@
 [ {
     "Author": "NightmareXIV",
-    "Name": "Splatoon",
-    "Punchline": "国服画家 解限特供 如果ABT或DSR加载错误，请卸载重装本插件 ",
-    "Description": "国服画家，10.3.4.1修复脚本无法导入bug",
+    "Name": "SplatoonX",
+    "Punchline": "国服画家 6.4CN 解限特供  ",
+    "Description": "国服画家，6.4CN 如无法启动请用库链接更新/下载，本地版无法正常使用。",
     "InternalName": "SplatoonX",
-    "AssemblyVersion": "10.3.4.1",
+    "AssemblyVersion": "10.3.4.2",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -12,9 +12,9 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.2/latest.zip",
     "DownloadCount": 1000,
     "LastUpdated": "0"
   }
