@@ -1,10 +1,10 @@
 [ {
     "Author": "NightmareXIV",
-    "Name": "SplatoonX",
-    "Punchline": "国服画家 6.4CN 解限特供  ",
+    "Name": "Splatoon",
+    "Punchline": "国服画家SPLX 6.4CN 解限特供 修复备份bug ",
     "Description": "国服画家，6.4CN 如无法启动请用库链接更新/下载，本地版无法正常使用。",
     "InternalName": "SplatoonX",
-    "AssemblyVersion": "10.3.4.2",
+    "AssemblyVersion": "10.3.4.3",
     "RepoUrl": "https://github.com/PunishXIV/Splatoon",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -12,10 +12,10 @@
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.2/latest.zip",
-    "DownloadCount": 1000,
+    "DownloadLinkInstall": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/SplatoonX/releases/download/10.3.4.3/latest.zip",
+    "DownloadCount": 30000,
     "LastUpdated": "0"
   }
 ]
